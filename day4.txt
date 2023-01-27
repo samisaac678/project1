@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sam isaac
+=======
+dan
+>>>>>>> projectsam
